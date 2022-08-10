@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Stepan-Zubkov/Stepan-Zubkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, It's me :wave:
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Stepan-Zubkov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am student from Russia 🇷🇺
+
+:muscle: **My skills:**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,flask,django,docker,linux,vscode)](https://skillicons.dev)
+
+<br />
+
+  **:zap: GitHub Stats**
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepan-Zubkov)
+
