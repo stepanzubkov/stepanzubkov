@@ -15,7 +15,7 @@ I am student from Russia. Interesting in Web Development. Main language - Python
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepan-Zubkov)
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Stepan-Zubkov&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=2&column=3)
+  # ![trophy](https://github-profile-trophy.vercel.app/?username=Stepan-Zubkov&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=2&column=3)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stepan-Zubkov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
