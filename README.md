@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Stepan-Zubkov) [![codewars](https://www.codewars.com/users/Stepan-Zubkov/badges/micro)](https://www.codewars.com/users/Stepan-Zubkov) 
 
-I am student from Russia. Interesting in Web Development. Main language - Python. Currently working on private project with ![PavelGrebenshikov](https://github.com/PavelGrebenshikov) 
+I am student from Russia. Interesting in Web Development. Main language - Python. Currently working on https://github.com/PavelGrebenshikov/butterfly
 
 :muscle: **My skills:**
 
