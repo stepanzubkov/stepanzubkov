@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Stepan-Zubkov) [![codewars](https://www.codewars.com/users/Stepan-Zubkov/badges/micro)](https://www.codewars.com/users/Stepan-Zubkov) 
 
-I am student from Russia. Interesting in Web Development. Main language - Python. Currently working on https://github.com/stepan-zubkov/sddm-zust and https://github.com/PavelGrebenshikov/butterfly
+I am student from Russia. Interesting in Web Development and Desktop. Main language - Python, but also code on QML, C++.  You can contact me in telegram (see bio) or [vk](https://vk.com/kde_plasma). Now I am learning C++ and work on some my kde plasma widgets.
+
+My [pling profile](https://www.pling.com/u/stepan-zubkov)
 
 :muscle: **My skills:**
 
