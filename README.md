@@ -15,9 +15,9 @@ My [pling profile](https://www.pling.com/u/stepan-zubkov)
 
   **:zap: GitHub Stats**
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepan-Zubkov)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepanzubkov)
  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stepan-Zubkov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stepanzubkov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepan-Zubkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
