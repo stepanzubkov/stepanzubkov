@@ -1,23 +1,25 @@
 
-## Hi, It's me :wave:
+## Hi, I'm Stepan Zubkov
 
-![](https://komarev.com/ghpvc/?username=Stepan-Zubkov) [![codewars](https://www.codewars.com/users/Stepan-Zubkov/badges/micro)](https://www.codewars.com/users/Stepan-Zubkov) 
+[![codewars](https://www.codewars.com/users/Stepan-Zubkov/badges/micro)](https://www.codewars.com/users/Stepan-Zubkov) 
 
-I am student from Russia. Interesting in Web Development and Desktop. Main language - Python, but also code on QML, C++.  You can contact me in telegram (see bio) or [vk](https://vk.com/kde_plasma). Now I am learning C++ and work on some my kde plasma widgets.
+- I'm student from Russia. Interested in Desktop, Web Development, GNU/Linux. 
+- My main language is **Python**. I also use C++, QML, Golang, Bash and JS.
+- I use Artix GNU/Linux and LFS.
+- I enjoy writing [Free Software](https://www.gnu.org/philosophy/free-sw.html)
 
-My [pling profile](https://www.pling.com/u/stepan-zubkov)
+**:link: Links:**
+- My [website](https://stepanzubkov.github.io/)
+- [Telegram](https://t.me/stepanzubkov)
+- [Pling profile](https://www.pling.com/u/stepan-zubkov)
 
-:muscle: **My skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,flask,django,docker,linux,vscode)](https://skillicons.dev)
+**:muscle: My skills:**
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,bash,docker,linux,lua,js)](https://skillicons.dev)
 
 <br />
 
-  **:zap: GitHub Stats**
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepanzubkov)
- 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stepanzubkov&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanzubkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
