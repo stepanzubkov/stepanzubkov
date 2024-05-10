@@ -6,7 +6,7 @@
 - I'm student from Russia. Interested in Desktop, Web Development, GNU/Linux. 
 - My main language is **Python**. I also use C++, QML, Golang, Bash and JS.
 - I use Artix GNU/Linux and LFS.
-- I enjoy writing [Free Software](https://www.gnu.org/philosophy/free-sw.html)
+- I enjoy writing and contributing [Free Software](https://www.gnu.org/philosophy/free-sw.html)
 
 **:link: Links:**
 - My [website](https://stepanzubkov.github.io/)
