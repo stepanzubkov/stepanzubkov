@@ -26,9 +26,9 @@ There are still many projects I've worked on, see my profile
 
 ## 🌐 Links
 
-My personal site: [stepanzubkov.github.io](https://stepanzubkov.github.io)
-Telegram: [@stepanzubkov](t.me/stepanzubkov)
-Codewars: [Stepan-Zubkov](https://www.codewars.com/users/Stepan-Zubkov)
+- My personal site: [stepanzubkov.github.io](https://stepanzubkov.github.io)
+- Telegram: [@stepanzubkov](t.me/stepanzubkov)
+- Codewars: [Stepan-Zubkov](https://www.codewars.com/users/Stepan-Zubkov)
 
 ## 🤝 Contributing & Translating
 
