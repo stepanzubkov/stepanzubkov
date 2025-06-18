@@ -1,25 +1,35 @@
+# Hi there, I'm Stepan Zubkov 👋
 
-## Hi, I'm Stepan Zubkov
+I'm a **student** and passionate coder, mostly working in **Python** but also exploring QML, Go, C, C++, Elixir, Bash, and Lua. I love using **GNU/Linux** and contribute to the FOSS (Free and Open Source Software) community—especially by translating apps in my spare time.
 
-[![codewars](https://www.codewars.com/users/Stepan-Zubkov/badges/micro)](https://www.codewars.com/users/Stepan-Zubkov) 
+## 🛠️ Languages & Tools
 
-- I'm student from Russia. Interested in Desktop, Web Development, GNU/Linux. 
-- My main language is **Python**. I also use C++, QML, Golang, Bash and JS.
-- I use Artix GNU/Linux and LFS.
-- I enjoy writing and contributing [Free Software](https://www.gnu.org/philosophy/free-sw.html)
+- Python (main)
+- QML, Go, C, C++, Elixir, Bash, Lua (some experience)
+- GNU/Linux fan & user (Now I use mostly Void GNU/Linux and Linux From Scratch)
 
-**:link: Links:**
-- My [website](https://stepanzubkov.github.io/)
-- [Telegram](https://t.me/stepanzubkov)
-- [Pling profile](https://www.pling.com/u/stepan-zubkov)
+## 📚 Projects
 
+Here are some repositories I've worked on or interested in:
+- Minimalist sddm theme: [where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme)
+- URL shortener api: [florgon/cc-api](https://github.com/florgon/cc-api)
+- CLI tool to clone multiple repos: [ghclone](https://github.com/stepanzubkov/ghclone)
+- CLI tool for cc-api: [florgon-cc-cli](https://github.com/stepanzubkov/florgon-cc-cli)
+- CLI display manager: [disman](https://github.com/stepanzubkov/disman)
 
-**:muscle: My skills:**
+There are still many projects I've worked on, see my profile
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,bash,docker,linux,lua,js)](https://skillicons.dev)
+## 🌍 Languages
 
-<br />
+- Russian (native speaker)
+- English (approx. B1)
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanzubkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Links
 
+My personal site: [stepanzubkov.github.io](https://stepanzubkov.github.io)
+Telegram: [@stepanzubkov](t.me/stepanzubkov)
+Codewars: [Stepan-Zubkov](https://www.codewars.com/users/Stepan-Zubkov)
+
+## 🤝 Contributing & Translating
+
+If you use or like any of my projects, feel free to open an issue, suggest a feature, or just say hi! I also enjoy translating free software applications—drop me a message if you need help with Russian localization.
