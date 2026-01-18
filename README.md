@@ -5,7 +5,7 @@ I'm a **student** and passionate coder, mostly working in **Python** but also ex
 ## 🛠️ Languages & Tools
 
 - Python (main)
-- QML, Go, C, C++, Elixir, Bash, Lua (some experience)
+- QML, Go, C, C++, Elixir, Bash, Lua, Gofra (some experience)
 - GNU/Linux fan & user (Now I use mostly Void GNU/Linux and Linux From Scratch)
 
 ## 📚 Projects
@@ -14,19 +14,19 @@ Here are some repositories I've worked on or interested in:
 - Minimalist sddm theme: [where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme)
 - URL shortener api: [florgon/cc-api](https://github.com/florgon/cc-api)
 - CLI tool to clone multiple repos: [ghclone](https://github.com/stepanzubkov/ghclone)
-- CLI tool for cc-api: [florgon-cc-cli](https://github.com/stepanzubkov/florgon-cc-cli)
-- CLI display manager: [disman](https://github.com/stepanzubkov/disman)
+- CLI tool for URL shortener: [florgon-cc-cli](https://github.com/stepanzubkov/florgon-cc-cli)
+- CLI display manager (alpha): [disman](https://github.com/stepanzubkov/disman)
 
 There are still many projects I've worked on, see my profile
 
 ## 🌍 Languages
 
 - Russian (native speaker)
-- English (approx. B1)
+- English (B1)
 
 ## 🌐 Links
 
-- My personal site: [stepanzubkov.github.io](https://stepanzubkov.github.io)
+- My personal website: [stepanzubkov.github.io](https://stepanzubkov.github.io)
 - Telegram: [@stepanzubkov](t.me/stepanzubkov)
 - Codewars: [Stepan-Zubkov](https://www.codewars.com/users/Stepan-Zubkov)
 
